@@ -45,7 +45,7 @@ export const config = {
     id: 1,
     title: "Axiom — AI-Powered Math Solver",
     description: "Multi-modal web app that solves math problems from text, image, and voice.",
-    image: "src/assets/axiom.jpg",         // <-- src/assets/axiom.png
+    image: "/axiom.jpg",         // <-- src/assets/axiom.png
     technologies: ["Flask","OCR ","Whisper","Groq API","Python"],
     github: "https://github.com/ritesh319/Axiom",
     demo: "#"
@@ -54,7 +54,7 @@ export const config = {
     id: 2,
     title: "Netflix UI Clone",
     description: "Responsive UI clone built using pure HTML and CSS, focused on layout and adaptive design.",
-    image: "src/assets/netflix.png",       // <-- src/assets/netflix.png
+    image: "/netflix.png",       // <-- src/assets/netflix.png
     technologies: ["HTML","CSS","Responsive Design"],
     github: "https://github.com/ritesh319/netflix-ui-clone",
     demo: "#"
@@ -63,7 +63,7 @@ export const config = {
     id: 3,
     title: "Auto Capture Selfie by Detecting Smile",
     description: "Real-time smile detection using OpenCV that automatically captures selfies.",
-    image: "src/assets/smile.png",        // <-- src/assets/selfie.png
+    image: "/smile.png",        // <-- src/assets/selfie.png
     technologies: ["Python","OpenCV","AI"],
     github: "https://github.com/ritesh319/smile-detection",
     demo: "#"
@@ -72,7 +72,7 @@ export const config = {
     id: 4,
     title: "Morse Code Translator",
     description: "A simple web application that translates text to Morse code and vice versa. This project provides an intuitive interface for encoding and decoding messages in Morse code.",
-    image: "src/assets/morse.png",        // <-- src/assets/selfie.png
+    image: "/morse.png",        // <-- src/assets/selfie.png
     technologies: ["Python","Flask"],
     github: "https://github.com/ritesh319/Morse-Code-App",
     demo: "#"
