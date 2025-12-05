@@ -1,4 +1,4 @@
-# 🌐 Ritesh's Portfolio
+# 🌐 My Portfolio
 
 A modern, animated, super-fast developer portfolio built with **React + Vite + Tailwind CSS + Framer Motion** and deployed on **Vercel**.
 
